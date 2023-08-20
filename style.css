@@ -1,0 +1,42 @@
+.container {
+    height: 250px;
+    width: 600px;
+    border: 3px solid yellow;
+    text-align: center;
+    justify-content: center;
+    padding: auto;
+    margin: auto;
+    display: table;
+}
+
+.heading {
+    text-align: center;
+}
+
+.button:hover {
+    background-color: #af4c6a;
+    /* Green */
+    color: white;
+}
+.form-example {
+    display: table;
+  }
+  
+  div.form-example {
+    display: table-row;
+  }
+  
+  label,
+  input {
+    display: table-cell;
+    margin-bottom: 24px;
+    margin-right:-150px;
+  }
+  
+  label {
+    padding-right: 117px;
+  }
+  .button{
+    display:inline-block;
+  }
+  
